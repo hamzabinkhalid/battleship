@@ -1,4 +1,4 @@
-# battleship single player state-tracker
+# Battleship single player state-tracker
 
 Requirements: 
   - Java 17

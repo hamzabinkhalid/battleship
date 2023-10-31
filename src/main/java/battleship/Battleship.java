@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-// A class to represent Battleship, Singleton pattern
+// A class to represent Battleship
 class Battleship {
   private static final Logger logger = LogManager.getLogger(Battleship.class);
   // The size of the board

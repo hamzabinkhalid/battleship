@@ -1,6 +1,6 @@
 package battleship;
 
-// A class to represent a ship, Factory pattern
+// A class to represent a ship
 class Ship {
   // The size of the ship
   int size;
